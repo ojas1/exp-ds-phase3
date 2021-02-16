@@ -27,9 +27,9 @@
     "unit-type": "lu",
     "label": "Bubble Sort",
     "content-type": "text",
+    "basedir": "bubblesort",
     "source": "./bubblesort.md",
     "target": "./bubblesort.html",
-    "basedir": "bubblesort",
     "units": [
       {
         "unit-type": "task",
@@ -79,9 +79,9 @@
     "unit-type": "lu",
     "label": "Optimized Bubble Sort",
     "content-type": "text",
+    "basedir": "optimized-bubblesort",
     "source": "./opt-bubblesort.md",
     "target": "./opt-bubblesort.html",
-    "basedir": "optimized-bubblesort",
     "units": [
       {
         "unit-type": "task",
@@ -119,5 +119,82 @@
         "target": "./opt-bs-quiz.html"
       }
     ]
+  },
+
+
+
+  {
+    "unit-type": "lu",
+    "label": "Analysis",
+    "content-type": "video",
+    "basedir": "analysis",
+    "source": "./analysis.md",
+    "target": "./analysis.html",
+    "units": [
+      {
+        "unit-type": "task",
+        "label": "Time and Space Complexity",
+        "content-type": "simulation",
+        "source": ".simulation/time-and-space-complexity.html",
+        "target": "./time-and-space-complexity.html"
+      },
+      {
+        "unit-type": "task",
+        "label": "Stability of Bubble Sort",
+        "content-type": "text",
+        "source": "./stability-of-bubble-sort.md",
+        "target": "./stability-of-bubble-sort.html"
+      },
+      {
+        "unit-type": "task",
+        "label": "Comparison with other algorithms",
+        "content-type": "text",
+        "source": "./comparison-with-other-algorithms.md",
+        "target": "./comparison-with-other-algorithms.html"
+      },
+      {
+        "unit-type": "task",
+        "label": "Analysis Quiz",
+        "content-type": "assesment",
+        "source": "./analysis-quiz.js",
+        "target": "./analysis-quiz.html"
+      },
+    ]
   }
+
+ {
+    "unit-type": "lu",
+    "label": "Post-Test",
+    "content-type": "text",
+    "basedir": "post-test",
+    "source": "./post-test.md",
+    "target": "./post-test.html",
+    "units": [
+      {
+        "unit-type": "task",
+        "label": "Post-Test Quiz",
+        "content-type": "assesment",
+        "source": "./posttest.js",
+        "target": "./posttestQuiz.html"
+      }
+    ]
+  },
+
+{
+    "unit-type": "lu",
+    "label": "Further Readings and References",
+    "content-type": "text",
+    "basedir": "further-readings-and-references",
+    "source": "./futher-reading-and-references.md",
+    "target": "./futer-reading-and-references.html",
+ },
+
+ {
+    "unit-type": "lu",
+    "label": "Feedback",
+    "content-type": "text",
+    "basedir": "feedback",
+    "source": "./feedback.md",
+    "target": "./feedback.html",
+  },
 ]

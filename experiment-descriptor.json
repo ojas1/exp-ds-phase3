@@ -36,9 +36,9 @@
     "unit-type": "lu",
     "label": "Bubble Sort",
     "content-type": "text",
-    "basedir": "bubblesort",
-    "source": "./bubblesort.md",
-    "target": "./bubblesort.html",
+    "basedir": "bubble-sort",
+    "source": "./bubble-sort.md",
+    "target": "./bubble-sort.html",
     "units": [
       {
         "unit-type": "task",

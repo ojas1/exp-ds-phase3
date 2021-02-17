@@ -89,16 +89,18 @@
 
 
      const myQuestions = [{
-            question: "1. Sample question", ///// Write the question inside double quotes
+            question: "1. Which of these best describes an array?", ///// Write the question inside double quotes
             answers: {
-                a: "True", ///// Write the option 1 inside double quotes
-                b: "False ", ///// Write the option 2 inside double quotes
+                a: "A data structure that shows a hierarchical behavior", ///// Write the option 1 inside double quotes
+                b: "Container of objects of similar types ", ///// Write the option 2 inside double quotes
+                c: " Container of objects of mixed types ", ///// Write the option 2 inside double quotes
+                d: " All of the mentioned ", ///// Write the option 2 inside double quotes
             },
             correctAnswer: "b" ///// Write the correct option inside double quotes
         },
 
     {
-      question: "2. Sample question",  ///// Write the question inside double quotes
+      question: "2. What is the complexity of insertion at any point on an array?",  ///// Write the question inside double quotes
       answers: {
         a: "True ",                  ///// Write the option 1 inside double quotes
         b: "False",                  ///// Write the option 2 inside double quotes

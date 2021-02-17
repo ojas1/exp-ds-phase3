@@ -14,7 +14,7 @@
 This experiment requires you to have basic knowledge about :
 
    - [The Notion of Sorting](https://en.wikipedia.org/wiki/Sorting_algorithm)
-   - [Notion of Time and Space complexity]9https://en.wikipedia.org/wiki/Time_complexity)
+   - [Notion of Time and Space complexity](https://en.wikipedia.org/wiki/Time_complexity)
 
 And above all, a curiosity to learn and explore!
 

@@ -5,9 +5,8 @@
     "content-type": "text",
     "basedir": "bubble-sort-experiment",
     "source": "./bubble-sort-experiment.md",
-    "target": "./bubble-sort-experiment.html",
+    "target": "./bubble-sort-experiment.html"
   },
-
   {
     "unit-type": "lu",
     "label": "Pre-Test",
@@ -129,7 +128,7 @@
       }
     ]
   },
- {
+  {
     "unit-type": "lu",
     "label": "Analysis",
     "content-type": "video",
@@ -164,11 +163,10 @@
         "content-type": "assesment",
         "source": "./analysis-quiz.js",
         "target": "./analysis-quiz.html"
-      },
+      }
     ]
-  }
-
- {
+  },
+  {
     "unit-type": "lu",
     "label": "Post-Test",
     "content-type": "text",
@@ -185,22 +183,20 @@
       }
     ]
   },
-
-{
+  {
     "unit-type": "lu",
     "label": "Further Readings and References",
     "content-type": "text",
     "basedir": "further-readings-and-references",
     "source": "./futher-reading-and-references.md",
-    "target": "./futer-reading-and-references.html",
- },
-
- {
+    "target": "./futer-reading-and-references.html"
+  },
+  {
     "unit-type": "lu",
     "label": "Feedback",
     "content-type": "text",
     "basedir": "feedback",
     "source": "./feedback.md",
-    "target": "./feedback.html",
-  },
+    "target": "./feedback.html"
+  }
 ]

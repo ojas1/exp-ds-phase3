@@ -89,24 +89,38 @@
 
 
      const myQuestions = [{
-            question: "1. Sample question", ///// Write the question inside double quotes
+            question: "1. How many iterations do I need to run to sort an already sorted array with N elements? ", ///// Write the question inside double quotes
             answers: {
-                a: "True", ///// Write the option 1 inside double quotes
-                b: "False ", ///// Write the option 2 inside double quotes
+                a: "N iterations", ///// Write the option 1 inside double quotes
+                b: " N-1 iterations ", ///// Write the option 2 inside double quotes
+                c: "1 iteration", ///// Write the option 3 inside double quotes
+                d: " 2 iterations ", ///// Write the option 4 inside double quotes
             },
-            correctAnswer: "b" ///// Write the correct option inside double quotes
+            correctAnswer: "c" ///// Write the correct option inside double quotes
         },
 
     {
-      question: "2. Sample question",  ///// Write the question inside double quotes
+      question: "2. Suppose you have already run 2 iterations in an optimized Bubble Sort. Your array has 7 elements. How many comparisons(not swaps) will you be doing in your next iteration? ",  ///// Write the question inside double quotes
       answers: {
-        a: "True",                  ///// Write the option 1 inside double quotes
-        b: "False",                  ///// Write the option 2 inside double quotes
+        a: "2 comparisons",                  ///// Write the option 1 inside double quotes
+        b: "3 comparisons",                  ///// Write the option 2 inside double quotes
+        c: "4 comparisons",                  ///// Write the option 3 inside double quotes
+        d: "5 comparisons",                  ///// Write the option 4 inside double quotes
              },
-      correctAnswer: "b"                ///// Write the correct option inside double quotes
+      correctAnswer: "c"                ///// Write the correct option inside double quotes
     },
 
-
+{
+      question: "3. When starting the kth iteration, how many elements could have already reached their correct position? ",  ///// Write the question inside double quotes
+      answers: {
+        a: "K elements",                  ///// Write the option 1 inside double quotes
+        b: "K-1 elements",                  ///// Write the option 2 inside double quotes
+        c: "N-K elements",                  ///// Write the option 3 inside double quotes
+        d: "all elements",                  ///// Write the option 4 inside double quotes
+        e: "All of the above",                  ///// Write the option 5 inside double quotes
+             },
+      correctAnswer: "e"                ///// Write the correct option inside double quotes
+    },
 
      ];
 

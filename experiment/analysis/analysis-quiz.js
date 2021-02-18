@@ -89,24 +89,38 @@
 
 
     const myQuestions = [{
-            question: "1. Sample question", ///// Write the question inside double quotes
+            question: "1. What is the complexity of optimized Bubble Sort?", ///// Write the question inside double quotes
             answers: {
-                a: "True", ///// Write the option 1 inside double quotes
-                b: "False", ///// Write the option 2 inside double quotes
+                a: "Best case O(n)", ///// Write the option 1 inside double quotes
+                b: "Best case O(n<sup>2</sup>) ", ///// Write the option 2 inside double quotes
+                c: "Worst case O(n2) ", ///// Write the option 1 inside double quotes
+                d: "Average case O(n2) ", ///// Write the option 2 inside double quotes
+		e: "a, c, d ", ///// Write the option 2 inside double quotes
             },
-            correctAnswer: "a" ///// Write the correct option inside double quotes
+            correctAnswer: "e" ///// Write the correct option inside double quotes
         },
 
     {
-      question: "2. Sample questions",  ///// Write the question inside double quotes
+      question: "2. Is Bubble Sort stable?",  ///// Write the question inside double quotes
       answers: {
-        a: "True",                  ///// Write the option 1 inside double quotes
-        b: "False",                  ///// Write the option 2 inside double quotes
+        a: "Yes ",                  ///// Write the option 1 inside double quotes
+        b: "No",                  ///// Write the option 2 inside double quotes
+	a: "Depend ",                  ///// Write the option 1 inside double quotes
+        b: "Can't say",                  ///// Write the option 2 inside double quotes
               },
       correctAnswer: "a"                ///// Write the correct option inside double quotes
     },
 
-
+{
+      question: "3. What is the best case time complexity of unoptimized Bubble Sort?",  ///// Write the question inside double quotes
+      answers: {
+        a: "O(n) ",                  ///// Write the option 1 inside double quotes
+        b: "O(n<sup>2</sup>)",                  ///// Write the option 2 inside double quotes
+	a: " Somewhere in between N and N<sup>2</sup> ",                  ///// Write the option 1 inside double quotes
+        b: "None of the above",                  ///// Write the option 2 inside double quotes
+              },
+      correctAnswer: "b"                ///// Write the correct option inside double quotes
+    },
         
     ];
 

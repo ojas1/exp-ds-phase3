@@ -8,6 +8,7 @@ Let's have a final look at the consolidated algorithm to sort an array of N elem
 
 ### Demonstration of Bubble Sort Algorithm
 <iframe src="https://www.youtube.com/embed/aFjElrUB0Qw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ### Iteration by Iteration Visualization of Bubble Sort
 <img src="images/bubble.png"/>
 

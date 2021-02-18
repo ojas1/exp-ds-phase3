@@ -104,8 +104,8 @@
       answers: {
         a: "O(N) ",                  ///// Write the option 1 inside double quotes
         b: "O(N^2) ",                  ///// Write the option 2 inside double quotes
-	c: "O(NLogN) ", ///// Write the option 2 inside double quotes
-        d: "None of these", ///// Write the option 2 inside double quotes
+	c: "O(NLogN) ", ///// Write the option 3 inside double quotes
+        d: "None of these", ///// Write the option 4 inside double quotes
              },
       correctAnswer: "a"                ///// Write the correct option inside double quotes
     },
@@ -115,8 +115,8 @@
       answers: {
         a: "X will always be a better choice for small inputs ",                  ///// Write the option 1 inside double quotes
         b: "OX will always be a better choice for large inputs ",                  ///// Write the option 2 inside double quotes
-	c: "Y will always be a better choice for small inputs", ///// Write the option 2 inside double quotes
-        d: "X will always be a better choice for all inputs", ///// Write the option 2 inside double quotes
+	c: "Y will always be a better choice for small inputs", ///// Write the option 3 inside double quotes
+        d: "X will always be a better choice for all inputs", ///// Write the option 4 inside double quotes
              },
       correctAnswer: "d"                ///// Write the correct option inside double quotes
     },
@@ -125,8 +125,8 @@
       answers: {
         a: "O(N * M) time, O(1) space ",                  ///// Write the option 1 inside double quotes
         b: "O(N + M) time, O(N + M) space ",                  ///// Write the option 2 inside double quotes
-	c: "O(N + M) time, O(1) space ", ///// Write the option 2 inside double quotes
-        d: "O(N * M) time, O(N + M) space ", ///// Write the option 2 inside double quotes
+	c: "O(N + M) time, O(1) space ", ///// Write the option 3 inside double quotes
+        d: "O(N * M) time, O(N + M) space ", ///// Write the option 4 inside double quotes
              },
       correctAnswer: "c"                ///// Write the correct option inside double quotes
     },

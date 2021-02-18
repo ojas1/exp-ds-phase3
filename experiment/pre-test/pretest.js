@@ -102,13 +102,34 @@
     {
       question: "2. What is the complexity of insertion at any point on an array?",  ///// Write the question inside double quotes
       answers: {
-        a: "True ",                  ///// Write the option 1 inside double quotes
-        b: "False",                  ///// Write the option 2 inside double quotes
+        a: "O(N) ",                  ///// Write the option 1 inside double quotes
+        b: "O(N^2) ",                  ///// Write the option 2 inside double quotes
+	c: "O(NLogN) ", ///// Write the option 2 inside double quotes
+        d: "None of these", ///// Write the option 2 inside double quotes
              },
-      correctAnswer: "b"                ///// Write the correct option inside double quotes
+      correctAnswer: "a"                ///// Write the correct option inside double quotes
     },
 
-
+{
+      question: "3. What does it mean when we say that an algorithm X is asymptotically more efficient than Y? ",  ///// Write the question inside double quotes
+      answers: {
+        a: "X will always be a better choice for small inputs ",                  ///// Write the option 1 inside double quotes
+        b: "OX will always be a better choice for large inputs ",                  ///// Write the option 2 inside double quotes
+	c: "Y will always be a better choice for small inputs", ///// Write the option 2 inside double quotes
+        d: "X will always be a better choice for all inputs", ///// Write the option 2 inside double quotes
+             },
+      correctAnswer: "d"                ///// Write the correct option inside double quotes
+    },
+{
+      question: "4. int a = 0, b = 0; <br> for (i = 0; i < N; i++) { <br>a = a + rand();<br>} <br> for (j = 0; j < M; j++) {<br>b = b + rand();<br>}<br>What is the time and space complexity for the above code?",  ///// Write the question inside double quotes
+      answers: {
+        a: "O(N * M) time, O(1) space ",                  ///// Write the option 1 inside double quotes
+        b: "O(N + M) time, O(N + M) space ",                  ///// Write the option 2 inside double quotes
+	c: "O(N + M) time, O(1) space ", ///// Write the option 2 inside double quotes
+        d: "O(N * M) time, O(N + M) space ", ///// Write the option 2 inside double quotes
+             },
+      correctAnswer: "c"                ///// Write the correct option inside double quotes
+    },
 
      ];
 

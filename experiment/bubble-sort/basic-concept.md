@@ -1,4 +1,4 @@
-## Understanding the Bubble Sort Algorithm
+## Basic Concept
 
 ### How can we sort an array?
 

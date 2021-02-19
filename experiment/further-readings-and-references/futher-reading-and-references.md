@@ -1,4 +1,4 @@
-## Further Readings and References of the Experiment
+## Further Readings/References  
 
 ### Explore More About Bubble Sort
 

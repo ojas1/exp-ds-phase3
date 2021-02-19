@@ -1,4 +1,4 @@
-## Optimization Technique of Bubble Sort
+## Optimization Technique 
 
 ### Optimization Technique
 

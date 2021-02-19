@@ -1,9 +1,12 @@
-## Demonstration of Bubble Sort
+## Bubble Sort Algorithm
+
 ### Algorithm of Bubble Sort
 Let's have a final look at the consolidated algorithm to sort an array of N elements:
 
   - **STEP 1** : Compare the i<sup>th</sup> and (i+1)<sup>th</sup> element, where i=first index to i=second last index.
+
   - **STEP 2** : Compare the pair of adjacent elements. If i<sup>th</sup> element is greater than the (i+1)<sup>th</sup> element, swap them.
+
   - **STEP 3** : Run steps 1 and 2 a total of N-1 times to attain the final sorted array.
 
 ### Demonstration of Bubble Sort Algorithm

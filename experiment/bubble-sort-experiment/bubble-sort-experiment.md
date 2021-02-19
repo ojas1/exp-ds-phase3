@@ -1,4 +1,4 @@
-##  Introduction to Bubble Sort
+## Bubble Sort Experiment
 
 ### Estimated Time
 
@@ -14,6 +14,7 @@
 This experiment requires you to have basic knowledge about :
 
    - [The Notion of Sorting](https://en.wikipedia.org/wiki/Sorting_algorithm)
+
    - [Notion of Time and Space complexity](https://en.wikipedia.org/wiki/Time_complexity)
 
 And above all, a curiosity to learn and explore!
@@ -30,8 +31,11 @@ And above all, a curiosity to learn and explore!
 In this experiment, we will be able to do the following:
 
    - Given an unsorted array of numbers, generate a sorted array of numbers by applying Bubble Sort.
+
    - Optimise the Bubble Sort algorithm to achieve better performance.
+
    - Demonstrate knowledge of time complexity of Bubble Sort by counting the number of operations involved in each iteration.
+
    - Compare Bubble Sort with other sorting algorithms and realise Bubble Sort as a stable comparison sorting algorithm.
 
 ### Experiment Modules and their Weightage
